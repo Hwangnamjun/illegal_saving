@@ -16,6 +16,9 @@
       <li>Java Swing</li>
       <li>Oracle</li>
       <li>JDBC</li>
-      <li>Apache POI</li>
+    </ul>
+  <li>라이브러리</li>
+    <ul>
+      <li><a href="https://poi.apache.org/" target="_blank">Apache POI</a></li>
     </ul>
 </ol>
