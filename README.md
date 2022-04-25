@@ -15,11 +15,10 @@
       <li>Java</li>
       <li>Java Swing</li>
       <li>Oracle</li>
-      <li>JDBC</li>
     </ul>
   <li>라이브러리</li>
     <ul>
       <li><a href="https://poi.apache.org/" target="_blank">Apache POI</a></li>
-      <li><a href="https://www.oracle.com/kr/database/technologies/appdev/jdbc-downloads.html" target="_blank">Apache POI</a></li>
+      <li><a href="https://www.oracle.com/kr/database/technologies/appdev/jdbc-downloads.html" target="_blank">Oracle JDBC</a></li>
     </ul>
 </ol>
