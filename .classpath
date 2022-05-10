@@ -6,5 +6,7 @@
 	<classpathentry kind="lib" path="src/jar/oraclepki.jar"/>
 	<classpathentry kind="lib" path="src/jar/osdt_cert.jar"/>
 	<classpathentry kind="lib" path="src/jar/osdt_core.jar"/>
+	<classpathentry kind="lib" path="src/jar/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="src/jar/poi-5.0.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
